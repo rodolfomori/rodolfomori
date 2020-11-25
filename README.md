@@ -22,8 +22,10 @@ This is the space where I spend most of my time where, imagination and creativit
 </a>
 </p>
 <br />
+<br />
 
-<p align="center">
+
+<p align="left">
  <br />
  Languages and Tools:
  </p>
