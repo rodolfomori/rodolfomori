@@ -6,9 +6,8 @@ This is the space where I spend most of my time where, imagination and creativit
 
 - 🔭 I'm currently working at Santander!
 - 💬 Ask me about anything [here](https://www.linkedin.com/in/rodolfomori//)
-- 📫 How to reach me: [@luizoc_f](https://www.instagram.com/dolfo.mori);
+- 📫 How to reach me: [@dolfo.mori](https://www.instagram.com/dolfo.mori);
 
-📊 **This week I spent my time on**
 
 <br />
 
@@ -22,8 +21,9 @@ This is the space where I spend most of my time where, imagination and creativit
 <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 </p>
+<br />
 
-<p align="left">
+<p align="center">
  <br />
  Languages and Tools:
  </p>
