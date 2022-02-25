@@ -4,7 +4,6 @@ Hi, I'm Rodolfo Mori, I am a dev passionate about technology!
 
 This is the space where I spend most of my time where, imagination and creativity become code.
 
-- 🔭 I'm currently working at Santander!
 - 💬 Ask me about anything [here](https://www.linkedin.com/in/rodolfomori//)
 - 📫 How to reach me: [@_rodolfomori](https://www.instagram.com/_rodolfomori);
 
