@@ -6,7 +6,7 @@ This is the space where I spend most of my time where, imagination and creativit
 
 - 🔭 I'm currently working at Santander!
 - 💬 Ask me about anything [here](https://www.linkedin.com/in/rodolfomori//)
-- 📫 How to reach me: [@dolfo.mori](https://www.instagram.com/dolfo.mori);
+- 📫 How to reach me: [@_rodolfomori](https://www.instagram.com/_rodolfomori);
 
 
 <br />
